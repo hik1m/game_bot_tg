@@ -6,7 +6,7 @@ from aiogram.filters import Command, CommandStart
 
 
 
-BOT_TOKEN = "6880467854:AAHmLV7X6KXv3LGzw1ZIrO6iD1RLzBv2uVY"
+BOT_TOKEN = "ur token"
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
